@@ -14,3 +14,4 @@ while True:
         print("Это не число")
 
 print(fc.addition(nums))
+print(fc.subtraction(nums))
